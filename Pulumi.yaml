@@ -1,0 +1,3 @@
+name: experiences-infra
+description: IaC for managing experiences infra using pulumi.
+runtime: nodejs
